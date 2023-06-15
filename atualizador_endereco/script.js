@@ -25,5 +25,5 @@ endereco.novoBairro = "timbauba";
 endereco.novaCidade = "juazeiro do norte";
 endereco.novoEstado = "CE";
 console.log(endereco)
-endereco.novaRua = "São damiao";
+endereco.novaRua = "São damia";
 console.log(endereco);
